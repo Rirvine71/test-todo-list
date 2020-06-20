@@ -1,0 +1,10 @@
+The app overall is quite basic and as such can be run by using yarn start in the terminal for the app.
+
+I used a component based layout for the app as it was what i am most familiar with.
+
+I feel this app does fulfill quite a few of the user requirements as the user can add new todos the todos are listed in created order, these todos can then be edited by clicking into them when created,
+the todos can then be marked off by clicking on the checkbox that is beside the item and finally the todos can be deleted by clicking on the icon included in the item.
+
+When creating the ui for this app i decided to import and use material ui as this is a library that i have used in the past and like the designs included in it.
+
+I decided to make use of both react date picker and moment js, to allow users to add a date to their todos to have an end date however i was not able to get it to work and will continue to work on this.
